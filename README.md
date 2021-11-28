@@ -4,15 +4,15 @@ After spending hours searching for a linkedin connection automation that:
      * Doesn't spam you with irrelevant connections, but hand picks the best ones.  
      * Skips the "Follow", and "Message" buttons.  
      * Won't be suspicious with it's "connection speed".  
-Iv'e decided to just create it myelf.....  
+I've decided to just create it myself.....  
 
 This script iterates through the connections list of specific people and sends a connect request to the most suitable people in that list.
 
 
 # Important to acknowledge:
 1. Watch the first 4 minutes of the video to set up the script. https://www.youtube.com/watch?v=2ZiknMDHHWA
-2. The script will not be detected as a bot as it was build to "move" slow on purpose. 
-   Doing 100 connections in a minute is highly suspicious. For that reason I wrote the script to run slower and sleep for a few seconds after some actions
+2. The script will not be detected as a bot as it was built to "move" slow on purpose. 
+   Doing 100 connections in a minute is highly suspicious. For that reason, I wrote the script to run slower and sleep for a few seconds after some actions
 3.  This script is based on finding Web elements by their name. LinkedIn changes the names of the elements once a week…. At least. 
     If the script doesn’t work, it means 1 of 3 things:
 	        A) You didn't follow the steps in the first 4 minutes of the video
