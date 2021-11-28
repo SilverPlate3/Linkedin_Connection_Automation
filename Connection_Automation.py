@@ -406,8 +406,8 @@ class Linkedin():
 
 
 
-kk = Linkedin()
-kk.get_home_page()
+Linkedin_instance = Linkedin()
+Linkedin_instance.get_home_page()
 
 
 
