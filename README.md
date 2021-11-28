@@ -1,10 +1,10 @@
 # Linkedin_Connection_Automation
-After spending hours searching for a linkedin connection automation that:
-    * Is functional.
-    * Doesn't spam you with irrelevant connections, but hand picks the best ones.
-    * Skips the "Follow", and "Message" buttons.
-    * Won't be suspicious with it's "connection speed".
-Iv'e decided to just create it myelf.....
+After spending hours searching for a linkedin connection automation that:  
+     * Is functional.  
+     * Doesn't spam you with irrelevant connections, but hand picks the best ones.  
+     * Skips the "Follow", and "Message" buttons.  
+     * Won't be suspicious with it's "connection speed".  
+Iv'e decided to just create it myelf.....  
 
 This script iterates through the connections list of specific people and sends a connect request to the most suitable people in that list.
 
@@ -24,13 +24,13 @@ This script iterates through the connections list of specific people and sends a
 
 
 # Video:
-https://www.youtube.com/watch?v=2ZiknMDHHWA
-0:00  -  3:20   -  How to set up the script. MUST WATCH!
-3:30  -  Skips person that doesn't contain the key words in his description.
-6:35  - Avoiding the "Message" button
-9:33  -  Switching to the next person in the people list.
-11:38 - Avoiding the "Follow" button 
-15:50  -  Closes the window once reached the connections limit.
+https://www.youtube.com/watch?v=2ZiknMDHHWA  
+0:00  -  3:20   -  How to set up the script. MUST WATCH!  
+3:30  -  Skips person that doesn't contain the key words in his description.  
+6:35  - Avoiding the "Message" button  
+9:33  -  Switching to the next person in the people list. 
+11:38 - Avoiding the "Follow" button  
+15:50  -  Closes the window once reached the connections limit.  
 
 
 
@@ -45,6 +45,6 @@ How does it work?
 
 
 
-If there is any issue with the script, please send me a message on linkedin.
+If there is any issue with the script, please send me a message on linkedin.  
 Username:  Silver Plate
 
