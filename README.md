@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=2ZiknMDHHWA
 
 
 
-How does it work?
+# How does it work?
 1. You must see the first 4 minutes of the video above and follow the simple instructions for providing the dependencies of the script. 
 2. Once the script is up and running, you provide it with 3-5 people you are connected with.
    Example: John Terry, Kevin Hart, Ariel Silver. 
